@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer_video",
+  "version": "1.0.0",
+  "description": "* use chrome instead of chromium, because chronum do not support play mp4. * use static compile ffmpeg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linewei/puppeteer_video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linewei/puppeteer_video/issues"
+  },
+  "homepage": "https://github.com/linewei/puppeteer_video#readme",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
